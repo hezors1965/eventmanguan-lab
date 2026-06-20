@@ -1,2 +1,14 @@
 # eventmanguan-lab
-HTML page archive and documentation
+
+资料页面发布仓库
+
+这里是自动发布页面的存放目录，用于集中维护生成结果。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 存档说明
+
+页面文件会持续归档，后续内容以实际发布结果为准。
